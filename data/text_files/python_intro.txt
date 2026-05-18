@@ -1,0 +1,30 @@
+Python Introduction
+
+Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991.
+
+Key Features:
+- Easy to learn syntax
+- Dynamic typing
+- Extensive standard library
+- Cross-platform compatibility
+
+Python is widely used in web development, data science, artificial intelligence, automation, and scientific computing. It supports multiple programming paradigms including procedural, object-oriented, and functional programming.
+
+Popular frameworks include Django and Flask for web development, NumPy and Pandas for data analysis, and TensorFlow and PyTorch for machine learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
